@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\bin\Debug\UI.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\bin\Debug\UI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\obj\Debug\UI.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\obj\Debug\UI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\obj\Debug\UI.Leader_Home.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\obj\Debug\UI.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\bin\Debug\Class.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\bin\Debug\Class.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\bin\Debug\Booking_DBA.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\bin\Debug\Booking_DBA.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\UI\obj\Debug\UI.Receptionist_Home.resources

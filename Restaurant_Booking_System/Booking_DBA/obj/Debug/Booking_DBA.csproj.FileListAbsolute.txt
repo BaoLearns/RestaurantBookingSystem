@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\Booking_DBA\obj\Debug\Booking_DBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\Booking_DBA\bin\Debug\Booking_DBA.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\Booking_DBA\bin\Debug\Booking_DBA.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\Booking_DBA\obj\Debug\Booking_DBA.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\Booking_DBA\obj\Debug\Booking_DBA.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\Booking_DBA\bin\Debug\Class.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Restaurant_Booking_System\Booking_DBA\bin\Debug\Class.pdb
